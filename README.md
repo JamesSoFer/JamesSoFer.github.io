@@ -12,7 +12,7 @@ Here are some of the projects I've worked on:
 
 - **WebWave**: A personal project focused on creating minimalist websites that adhere to the principles of minimalism. WebWave helps entrepreneurs and businesses launch their websites with a focus on clarity and impact.
 
-- **Skateboarding LP**
+- **Skateboarding e-commerce LP**
 
 - **Bolsa de Empleo**
 
